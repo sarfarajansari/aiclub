@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aiclub/static/css/main.20d74cc8.css",
+    "main.js": "/aiclub/static/js/main.76b85b5f.js",
+    "static/js/787.84b67b23.chunk.js": "/aiclub/static/js/787.84b67b23.chunk.js",
+    "static/media/wave.svg": "/aiclub/static/media/wave.a162140142f64d0de50ef97b6a796982.svg",
+    "index.html": "/aiclub/index.html",
+    "main.20d74cc8.css.map": "/aiclub/static/css/main.20d74cc8.css.map",
+    "main.76b85b5f.js.map": "/aiclub/static/js/main.76b85b5f.js.map",
+    "787.84b67b23.chunk.js.map": "/aiclub/static/js/787.84b67b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d74cc8.css",
+    "static/js/main.76b85b5f.js"
+  ]
+}
