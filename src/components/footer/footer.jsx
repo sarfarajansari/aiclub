@@ -70,7 +70,7 @@ const Footer = () => {
         </div>
 
         <div className="text">Made with ❤️ Sarfaraj Ansari</div>
-        <div className="text">Copyright © 2022 AI Club - VIT Bhopal</div>
+        <div className="text">Copyright © 2023 AI Club - VIT Bhopal</div>
       </MainContainer>
     </Container>
   );
