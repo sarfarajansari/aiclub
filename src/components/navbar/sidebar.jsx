@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoMdClose } from "react-icons/io";
 import styled from "styled-components";
@@ -73,7 +73,7 @@ const Sidebar = () => {
       <SidebarContainer active={active}>
         <LinkContainer>
           {routes.map((route) => (
-            <PageLink onClick={onClickLink}>{route}</PageLink>
+            <PageLink onClick={() => onClickLink(route)}>{route}</PageLink>
           ))}
         </LinkContainer>
       </SidebarContainer>

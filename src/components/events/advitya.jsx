@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Carousel, Timeline } from "antd";
+import { Button, Carousel } from "antd";
 import advityaData from "./advityaData.json";
 
 import { Card } from "antd";
@@ -64,7 +64,7 @@ const Advitya = () => {
   return (
     <Container id="advitya">
       <div className="logo">
-        <img src={`${process.env.PUBLIC_URL}/images/Advitya Logo.png`} />
+        <img src={`${process.env.PUBLIC_URL}/images/Advitya Logo.png`} alt="Advitya logo"/>
       </div>
 
       <Carousel autoplay>
@@ -77,6 +77,7 @@ const Advitya = () => {
                 cover={
                   <img
                     src={`${process.env.PUBLIC_URL}/images/${event.name}.png`}
+                    alt={event.name}
                   />
                 }
               >

@@ -130,7 +130,7 @@ const Hero = () => {
       </div>
 
       <ContentContainer>
-        <AiImage src={`${process.env.PUBLIC_URL}/images/aiImage5.png`} />
+        <AiImage src={`${process.env.PUBLIC_URL}/images/aiImage5.png`} alt="AI" />
         <MainData>
           <div className="header">A place to share one’s Passion for</div>
           <div className="flex-container">
@@ -149,7 +149,7 @@ const Hero = () => {
       </ContentContainer>
 
       <WaveContainer>
-        <img src={wave} />
+        <img src={wave} alt="wave" />
       </WaveContainer>
     </Container>
   );
