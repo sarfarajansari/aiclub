@@ -91,7 +91,7 @@ const Advitya = () => {
                 <div>Date : </div>
                 <div>{event.date}</div>
                 <div>mode : </div>
-                <div>{event.date}</div>
+                <div>{event.mode}</div>
 
                 <div>Participation : </div>
                 <div>{event.participation}</div>

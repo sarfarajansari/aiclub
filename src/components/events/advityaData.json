@@ -5,6 +5,7 @@
         "participation": "Team based (1-5 memebers)",
         "duration": "3 days",
         "registrationFee": "Rs 50 per person",
+        "mode": "Online/Offline",
         "color": "blue",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYf2OPwNan7Dg1k9oksmi6kOXUyjPXalpQFkR3layGRcYvww/viewform"
     },
@@ -13,6 +14,7 @@
         "date": "9 February 2023",
         "participation": "Team based (3-5 memebers)",
         "duration": "3 hours",
+        "mode": "Offline",
         "registrationFee": "Rs 50 per person",
         "color": "red",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLScZZvPSNZuuVSXdNLG54QypX7lGnBrT3crH3dDurQxnOgWIow/viewform"
@@ -22,6 +24,7 @@
         "date": "10 February 2023",
         "participation": "Individual",
         "duration": "2 hours",
+        "mode": "Offline",
         "registrationFee": "Rs 50 per person",
         "color": "green",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSeiN_2-2o0LEgeDBDe4_FcWJmjnVRak9v0_ze7PiftbmLruvw/viewform"
