@@ -3,6 +3,15 @@
 
 I'm excited to share the AI Club Website, which I built using React during my interview process with the AI Club! 🎉 The website was designed to offer a visually stunning and interactive experience, with features like event listings, contact details, and a dynamic carousel to keep things engaging.
 
+
+
+
+
+
+https://github.com/user-attachments/assets/f9e95c8e-3fa2-46b3-ab41-fddd41cd4574
+
+
+
 ## Features
 
 - **Event Listings**: Displays upcoming AI-related events organized by the AI Club.
